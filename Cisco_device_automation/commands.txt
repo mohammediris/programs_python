@@ -1,0 +1,5 @@
+show version
+show processes cpu
+show processes memory
+show processes cpu history
+ping 10.10.10.1 size 1500 repeat 10000

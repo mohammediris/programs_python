@@ -1,0 +1,27 @@
+show env all
+
+show version
+
+
+show processes cpu
+
+show processes memory
+
+show processes cpu history
+====================================
+
+show interface status
+
+show interface counter error
+
+show vtp status 
+
+show spanning-tree
+
+show spanning-tree blockedports
+
+show interface trunk
+=====================================
+
+
+ping 74.38.100.254 size 1500 repeat 10000
