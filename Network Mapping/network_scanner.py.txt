@@ -49,6 +49,17 @@ device = {
 '''
 Main Code
 '''
+ipaddress = input("Enter IP Address : \n")
+username = input("Enter username : \n")
+password = input("Enter password : \n")
+
+device = {
+        "ip" :ipaddress,
+        "device_type" : "cisco_ios",
+        "username" : username,
+        "password" : password
+        }
+        
 queue.put(device["ip"]) # first IP address passed to queue
 while not queue.empty():
     device["ip"] = queue.get()
