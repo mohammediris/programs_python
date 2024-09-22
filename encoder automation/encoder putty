@@ -1,0 +1,680 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2024.09.13 14:23:02 =~=~=~=~=~=~=~=~=~=~=~=
+
+
+***********************************************************
+*      Verint Video Solutions S1708e - 75.17.151.39       *
+***********************************************************
+Main Menu
+-----------------------------------------------------------
+Menus:
+1) Serial Port
+2) Access Management
+3) System Status
+4) Network
+5) Ethernet Communication
+6) Advanced
+
+Commands:
+s) Save Settings 
+r) Reboot System 
+l) Load Default Configuration 
+c) Load Default Configuration "Light" (No default for VSIP and Network)
+q) Quit 
+***********************************************************
+Command:  '6
+6
+
+***********************************************************
+*      Verint Video Solutions S1708e - 75.17.151.39       *
+***********************************************************
+Main Menu
+-----------------------------------------------------------
+Menus:
+1) Serial Port
+2) Access Management
+3) System Status
+4) Network
+5) Ethernet Communication
+6) Advanced
+
+Commands:
+s) Save Settings 
+r) Reboot System 
+l) Load Default Configuration 
+c) Load Default Configuration "Light" (No default for VSIP and Network)
+q) Quit 
+***********************************************************
+Command: 6
+6
+
+***********************************************************
+*      Verint Video Solutions S1708e - 75.17.151.39       *
+***********************************************************
+Main Menu \ Advanced
+-----------------------------------------------------------
+Menus:
+ 1) Video
+ 2) Video Status
+ 3) Camera Tampering Status
+ 4) VSIP
+ 5) VSIP Statistics
+ 6) Power Management
+ 7) Serial Port (IP)
+ 8) System Time
+ 9) System Time Stats
+10) OEM Management
+11) Serial Port Status
+12) Communication Status and Statistics
+13) Quality of Service
+14) Test and Debug
+15) Feature License Management
+
+Commands:
+i) Identify Unit
+v) Display Volatile Stream Information
+p) Previous Menu 
+***********************************************************
+Command: 1
+1
+
+***********************************************************
+*      Verint Video Solutions S1708e - 75.17.151.39       *
+***********************************************************
+Main Menu \ Advanced \ Video
+-----------------------------------------------------------
+Menus:
+1) Input 1 
+2) Input 2 
+3) Input 3 
+4) Input 4 
+5) Input 5 
+6) Input 6 
+7) Input 7 
+8) Input 8 
+
+Parameters:
+9) Video Standard        : PAL
+10) Max Video Payload Size: 1400
+
+Commands:
+p) Previous Menu 
+***********************************************************
+Command: 1
+1
+
+***********************************************************
+*      Verint Video Solutions S1708e - 75.17.151.39       *
+***********************************************************
+Advanced \ Video \ Input 1 
+-----------------------------------------------------------
+Menus:
+1) Encoder 1
+2) Encoder 2
+3) Motion Detection
+4) Camera Tampering Detection
+
+Parameters:
+5) Brightness         : 0 
+6) Contrast           : 0 
+7) Saturation         : 0 
+8) Hue                : 0 
+9) Horizontal Position: 4 
+10) Vertical Position  : 0 
+11) Input state        : Enabled
+12) Encoder for motion : First Encoder
+
+Commands:
+p) Previous Menu 
+***********************************************************
+Command: 1
+1
+
+***********************************************************
+*      Verint Video Solutions S1708e - 75.17.151.39       *
+***********************************************************
+Video \ Input 1  \ Encoder 1
+-----------------------------------------------------------
+Parameters:
+ 1) Target Bit Rate                        : 1640 kbits/second
+ 2) Target Frame Rate                      : 25 frames/second
+ 3) Minimum Quantizer                      : 3 
+ 4) Maximum Quantizer                      : 12 
+ 5) Initial Streaming                      : Enabled
+ 6) Current Streaming State                : Enabled
+ 7) Transport Protocol                     : RTP/UDP
+ 8) Input Filter Mode                      : Low
+ 9) Noise Reduction Filter Mode            : Low
+10) Resolution                             : 4CIF (704x576) 
+11) Remote IP Address                      : 228.1.100.101 
+12) UDP Data Port                          : 9000 
+13) Rate Control Mode                      : CBR (Constant Bitrate)
+14) Multiplying factor for Nextiva RC (X100: 130 
+15) Target VSIP GUID                       : 00000000-0000-0000-0000-000000000000 
+16) Intra Interval                         : 32 
+17) Energy Vector (EV) transmission rate   : 1 
+18) Compression Mode                       : MPEG4 Compliant Simple Profile
+19) Frame Format                           : Interlaced Frame
+20) Sabotage Detection Filter Mode         : None
+21) SM4 Codec Enhanced Quality Mode        : Normal
+
+Commands:
+p) Previous Menu 
+***********************************************************
+Command: 5
+5
+
+***********************************************************
+*      Verint Video Solutions S1708e - 75.17.151.39       *
+***********************************************************
+Set Initial Streaming
+Current Value: Enabled
+Choices : [0]=Disabled, [1]=Enabled
+-----------------------------------------------
+p) Previous Menu 
+***********************************************
+Value: 
+
+
+***********************************************************
+*      Verint Video Solutions S1708e - 75.17.151.39       *
+***********************************************************
+Set Initial Streaming
+Current Value: Enabled
+Choices : [0]=Disabled, [1]=Enabled
+-----------------------------------------------
+p) Previous Menu 
+***********************************************
+Message: Error - Parameter modification failed.
+Value: p
+p
+
+***********************************************************
+*      Verint Video Solutions S1708e - 75.17.151.39       *
+***********************************************************
+Video \ Input 1  \ Encoder 1
+-----------------------------------------------------------
+Parameters:
+ 1) Target Bit Rate                        : 1640 kbits/second
+ 2) Target Frame Rate                      : 25 frames/second
+ 3) Minimum Quantizer                      : 3 
+ 4) Maximum Quantizer                      : 12 
+ 5) Initial Streaming                      : Enabled
+ 6) Current Streaming State                : Enabled
+ 7) Transport Protocol                     : RTP/UDP
+ 8) Input Filter Mode                      : Low
+ 9) Noise Reduction Filter Mode            : Low
+10) Resolution                             : 4CIF (704x576) 
+11) Remote IP Address                      : 228.1.100.101 
+12) UDP Data Port                          : 9000 
+13) Rate Control Mode                      : CBR (Constant Bitrate)
+14) Multiplying factor for Nextiva RC (X100: 130 
+15) Target VSIP GUID                       : 00000000-0000-0000-0000-000000000000 
+16) Intra Interval                         : 32 
+17) Energy Vector (EV) transmission rate   : 1 
+18) Compression Mode                       : MPEG4 Compliant Simple Profile
+19) Frame Format                           : Interlaced Frame
+20) Sabotage Detection Filter Mode         : None
+21) SM4 Codec Enhanced Quality Mode        : Normal
+
+Commands:
+p) Previous Menu 
+***********************************************************
+Command: 6
+6
+
+***********************************************************
+*      Verint Video Solutions S1708e - 75.17.151.39       *
+***********************************************************
+Set Current Streaming State
+Current Value: Enabled
+Choices : [0]=Disabled, [1]=Enabled
+-----------------------------------------------
+p) Previous Menu 
+***********************************************
+Value: p
+p
+
+***********************************************************
+*      Verint Video Solutions S1708e - 75.17.151.39       *
+***********************************************************
+Video \ Input 1  \ Encoder 1
+-----------------------------------------------------------
+Parameters:
+ 1) Target Bit Rate                        : 1640 kbits/second
+ 2) Target Frame Rate                      : 25 frames/second
+ 3) Minimum Quantizer                      : 3 
+ 4) Maximum Quantizer                      : 12 
+ 5) Initial Streaming                      : Enabled
+ 6) Current Streaming State                : Enabled
+ 7) Transport Protocol                     : RTP/UDP
+ 8) Input Filter Mode                      : Low
+ 9) Noise Reduction Filter Mode            : Low
+10) Resolution                             : 4CIF (704x576) 
+11) Remote IP Address                      : 228.1.100.101 
+12) UDP Data Port                          : 9000 
+13) Rate Control Mode                      : CBR (Constant Bitrate)
+14) Multiplying factor for Nextiva RC (X100: 130 
+15) Target VSIP GUID                       : 00000000-0000-0000-0000-000000000000 
+16) Intra Interval                         : 32 
+17) Energy Vector (EV) transmission rate   : 1 
+18) Compression Mode                       : MPEG4 Compliant Simple Profile
+19) Frame Format                           : Interlaced Frame
+20) Sabotage Detection Filter Mode         : None
+21) SM4 Codec Enhanced Quality Mode        : Normal
+
+Commands:
+p) Previous Menu 
+***********************************************************
+Command: 7
+7
+
+***********************************************************
+*      Verint Video Solutions S1708e - 75.17.151.39       *
+***********************************************************
+Set Transport Protocol
+Current Value: RTP/UDP
+Choices : [1]=VSIP/UDP, [2]=RTP/TCP, [3]=RTP/UDP, [4]=VSIP/TCP
+Reboot is required after changing this parameter.
+-----------------------------------------------
+p) Previous Menu 
+***********************************************
+Value: p
+p
+
+***********************************************************
+*      Verint Video Solutions S1708e - 75.17.151.39       *
+***********************************************************
+Video \ Input 1  \ Encoder 1
+-----------------------------------------------------------
+Parameters:
+ 1) Target Bit Rate                        : 1640 kbits/second
+ 2) Target Frame Rate                      : 25 frames/second
+ 3) Minimum Quantizer                      : 3 
+ 4) Maximum Quantizer                      : 12 
+ 5) Initial Streaming                      : Enabled
+ 6) Current Streaming State                : Enabled
+ 7) Transport Protocol                     : RTP/UDP
+ 8) Input Filter Mode                      : Low
+ 9) Noise Reduction Filter Mode            : Low
+10) Resolution                             : 4CIF (704x576) 
+11) Remote IP Address                      : 228.1.100.101 
+12) UDP Data Port                          : 9000 
+13) Rate Control Mode                      : CBR (Constant Bitrate)
+14) Multiplying factor for Nextiva RC (X100: 130 
+15) Target VSIP GUID                       : 00000000-0000-0000-0000-000000000000 
+16) Intra Interval                         : 32 
+17) Energy Vector (EV) transmission rate   : 1 
+18) Compression Mode                       : MPEG4 Compliant Simple Profile
+19) Frame Format                           : Interlaced Frame
+20) Sabotage Detection Filter Mode         : None
+21) SM4 Codec Enhanced Quality Mode        : Normal
+
+Commands:
+p) Previous Menu 
+***********************************************************
+Command: 2 10
+10
+
+***********************************************************
+*      Verint Video Solutions S1708e - 75.17.151.39       *
+***********************************************************
+Set Resolution
+Current Value: 4CIF (704x576) 
+Choices : [2]=CIF, [4]=4CIF, [5]=All lines, [6]=2CIFH (single field), [7]=VGA, [8]=2/3 D1
+-----------------------------------------------
+p) Previous Menu 
+***********************************************
+Value: p
+p
+
+***********************************************************
+*      Verint Video Solutions S1708e - 75.17.151.39       *
+***********************************************************
+Video \ Input 1  \ Encoder 1
+-----------------------------------------------------------
+Parameters:
+ 1) Target Bit Rate                        : 1640 kbits/second
+ 2) Target Frame Rate                      : 25 frames/second
+ 3) Minimum Quantizer                      : 3 
+ 4) Maximum Quantizer                      : 12 
+ 5) Initial Streaming                      : Enabled
+ 6) Current Streaming State                : Enabled
+ 7) Transport Protocol                     : RTP/UDP
+ 8) Input Filter Mode                      : Low
+ 9) Noise Reduction Filter Mode            : Low
+10) Resolution                             : 4CIF (704x576) 
+11) Remote IP Address                      : 228.1.100.101 
+12) UDP Data Port                          : 9000 
+13) Rate Control Mode                      : CBR (Constant Bitrate)
+14) Multiplying factor for Nextiva RC (X100: 130 
+15) Target VSIP GUID                       : 00000000-0000-0000-0000-000000000000 
+16) Intra Interval                         : 32 
+17) Energy Vector (EV) transmission rate   : 1 
+18) Compression Mode                       : MPEG4 Compliant Simple Profile
+19) Frame Format                           : Interlaced Frame
+20) Sabotage Detection Filter Mode         : None
+21) SM4 Codec Enhanced Quality Mode        : Normal
+
+Commands:
+p) Previous Menu 
+***********************************************************
+Command: 11
+11
+
+***********************************************************
+*      Verint Video Solutions S1708e - 75.17.151.39       *
+***********************************************************
+Set Remote IP Address
+Current Value: 228.1.100.101 
+Enter Ip address (addr to send or get video)
+-----------------------------------------------
+p) Previous Menu 
+***********************************************
+Value: p
+p
+
+***********************************************************
+*      Verint Video Solutions S1708e - 75.17.151.39       *
+***********************************************************
+Video \ Input 1  \ Encoder 1
+-----------------------------------------------------------
+Parameters:
+ 1) Target Bit Rate                        : 1640 kbits/second
+ 2) Target Frame Rate                      : 25 frames/second
+ 3) Minimum Quantizer                      : 3 
+ 4) Maximum Quantizer                      : 12 
+ 5) Initial Streaming                      : Enabled
+ 6) Current Streaming State                : Enabled
+ 7) Transport Protocol                     : RTP/UDP
+ 8) Input Filter Mode                      : Low
+ 9) Noise Reduction Filter Mode            : Low
+10) Resolution                             : 4CIF (704x576) 
+11) Remote IP Address                      : 228.1.100.101 
+12) UDP Data Port                          : 9000 
+13) Rate Control Mode                      : CBR (Constant Bitrate)
+14) Multiplying factor for Nextiva RC (X100: 130 
+15) Target VSIP GUID                       : 00000000-0000-0000-0000-000000000000 
+16) Intra Interval                         : 32 
+17) Energy Vector (EV) transmission rate   : 1 
+18) Compression Mode                       : MPEG4 Compliant Simple Profile
+19) Frame Format                           : Interlaced Frame
+20) Sabotage Detection Filter Mode         : None
+21) SM4 Codec Enhanced Quality Mode        : Normal
+
+Commands:
+p) Previous Menu 
+***********************************************************
+Command: 12
+12
+
+***********************************************************
+*      Verint Video Solutions S1708e - 75.17.151.39       *
+***********************************************************
+Set UDP Data Port
+Current Value: 9000 
+Enter UDP port number between Tx and Rx
+-----------------------------------------------
+p) Previous Menu 
+***********************************************
+Value: p
+p
+
+***********************************************************
+*      Verint Video Solutions S1708e - 75.17.151.39       *
+***********************************************************
+Video \ Input 1  \ Encoder 1
+-----------------------------------------------------------
+Parameters:
+ 1) Target Bit Rate                        : 1640 kbits/second
+ 2) Target Frame Rate                      : 25 frames/second
+ 3) Minimum Quantizer                      : 3 
+ 4) Maximum Quantizer                      : 12 
+ 5) Initial Streaming                      : Enabled
+ 6) Current Streaming State                : Enabled
+ 7) Transport Protocol                     : RTP/UDP
+ 8) Input Filter Mode                      : Low
+ 9) Noise Reduction Filter Mode            : Low
+10) Resolution                             : 4CIF (704x576) 
+11) Remote IP Address                      : 228.1.100.101 
+12) UDP Data Port                          : 9000 
+13) Rate Control Mode                      : CBR (Constant Bitrate)
+14) Multiplying factor for Nextiva RC (X100: 130 
+15) Target VSIP GUID                       : 00000000-0000-0000-0000-000000000000 
+16) Intra Interval                         : 32 
+17) Energy Vector (EV) transmission rate   : 1 
+18) Compression Mode                       : MPEG4 Compliant Simple Profile
+19) Frame Format                           : Interlaced Frame
+20) Sabotage Detection Filter Mode         : None
+21) SM4 Codec Enhanced Quality Mode        : Normal
+
+Commands:
+p) Previous Menu 
+***********************************************************
+Command: 18
+18
+
+***********************************************************
+*      Verint Video Solutions S1708e - 75.17.151.39       *
+***********************************************************
+Set Compression Mode
+Current Value: MPEG4 Compliant Simple Profile
+Choices : [0]=SM4, [1]=MPEG4 Compliant Simple Profile
+-----------------------------------------------
+p) Previous Menu 
+***********************************************
+Value: p
+p
+
+***********************************************************
+*      Verint Video Solutions S1708e - 75.17.151.39       *
+***********************************************************
+Video \ Input 1  \ Encoder 1
+-----------------------------------------------------------
+Parameters:
+ 1) Target Bit Rate                        : 1640 kbits/second
+ 2) Target Frame Rate                      : 25 frames/second
+ 3) Minimum Quantizer                      : 3 
+ 4) Maximum Quantizer                      : 12 
+ 5) Initial Streaming                      : Enabled
+ 6) Current Streaming State                : Enabled
+ 7) Transport Protocol                     : RTP/UDP
+ 8) Input Filter Mode                      : Low
+ 9) Noise Reduction Filter Mode            : Low
+10) Resolution                             : 4CIF (704x576) 
+11) Remote IP Address                      : 228.1.100.101 
+12) UDP Data Port                          : 9000 
+13) Rate Control Mode                      : CBR (Constant Bitrate)
+14) Multiplying factor for Nextiva RC (X100: 130 
+15) Target VSIP GUID                       : 00000000-0000-0000-0000-000000000000 
+16) Intra Interval                         : 32 
+17) Energy Vector (EV) transmission rate   : 1 
+18) Compression Mode                       : MPEG4 Compliant Simple Profile
+19) Frame Format                           : Interlaced Frame
+20) Sabotage Detection Filter Mode         : None
+21) SM4 Codec Enhanced Quality Mode        : Normal
+
+Commands:
+p) Previous Menu 
+***********************************************************
+Command: 19
+19
+
+***********************************************************
+*      Verint Video Solutions S1708e - 75.17.151.39       *
+***********************************************************
+Set Frame Format
+Current Value: Interlaced Frame
+Choices : [0]=Field over Field, [1]=Interlaced Frame, [2]=DeInterlaced Frame
+-----------------------------------------------
+p) Previous Menu 
+***********************************************
+Value: p
+p
+
+***********************************************************
+*      Verint Video Solutions S1708e - 75.17.151.39       *
+***********************************************************
+Video \ Input 1  \ Encoder 1
+-----------------------------------------------------------
+Parameters:
+ 1) Target Bit Rate                        : 1640 kbits/second
+ 2) Target Frame Rate                      : 25 frames/second
+ 3) Minimum Quantizer                      : 3 
+ 4) Maximum Quantizer                      : 12 
+ 5) Initial Streaming                      : Enabled
+ 6) Current Streaming State                : Enabled
+ 7) Transport Protocol                     : RTP/UDP
+ 8) Input Filter Mode                      : Low
+ 9) Noise Reduction Filter Mode            : Low
+10) Resolution                             : 4CIF (704x576) 
+11) Remote IP Address                      : 228.1.100.101 
+12) UDP Data Port                          : 9000 
+13) Rate Control Mode                      : CBR (Constant Bitrate)
+14) Multiplying factor for Nextiva RC (X100: 130 
+15) Target VSIP GUID                       : 00000000-0000-0000-0000-000000000000 
+16) Intra Interval                         : 32 
+17) Energy Vector (EV) transmission rate   : 1 
+18) Compression Mode                       : MPEG4 Compliant Simple Profile
+19) Frame Format                           : Interlaced Frame
+20) Sabotage Detection Filter Mode         : None
+21) SM4 Codec Enhanced Quality Mode        : Normal
+
+Commands:
+p) Previous Menu 
+***********************************************************
+Command: p
+p
+
+***********************************************************
+*      Verint Video Solutions S1708e - 75.17.151.39       *
+***********************************************************
+Advanced \ Video \ Input 1 
+-----------------------------------------------------------
+Menus:
+1) Encoder 1
+2) Encoder 2
+3) Motion Detection
+4) Camera Tampering Detection
+
+Parameters:
+5) Brightness         : 0 
+6) Contrast           : 0 
+7) Saturation         : 0 
+8) Hue                : 0 
+9) Horizontal Position: 4 
+10) Vertical Position  : 0 
+11) Input state        : Enabled
+12) Encoder for motion : First Encoder
+
+Commands:
+p) Previous Menu 
+***********************************************************
+Command: p
+p
+
+***********************************************************
+*      Verint Video Solutions S1708e - 75.17.151.39       *
+***********************************************************
+Main Menu \ Advanced \ Video
+-----------------------------------------------------------
+Menus:
+1) Input 1 
+2) Input 2 
+3) Input 3 
+4) Input 4 
+5) Input 5 
+6) Input 6 
+7) Input 7 
+8) Input 8 
+
+Parameters:
+9) Video Standard        : PAL
+10) Max Video Payload Size: 1400
+
+Commands:
+p) Previous Menu 
+***********************************************************
+Command: p
+p
+
+***********************************************************
+*      Verint Video Solutions S1708e - 75.17.151.39       *
+***********************************************************
+Main Menu \ Advanced
+-----------------------------------------------------------
+Menus:
+ 1) Video
+ 2) Video Status
+ 3) Camera Tampering Status
+ 4) VSIP
+ 5) VSIP Statistics
+ 6) Power Management
+ 7) Serial Port (IP)
+ 8) System Time
+ 9) System Time Stats
+10) OEM Management
+11) Serial Port Status
+12) Communication Status and Statistics
+13) Quality of Service
+14) Test and Debug
+15) Feature License Management
+
+Commands:
+i) Identify Unit
+v) Display Volatile Stream Information
+p) Previous Menu 
+***********************************************************
+Command: p
+p
+
+***********************************************************
+*      Verint Video Solutions S1708e - 75.17.151.39       *
+***********************************************************
+Main Menu
+-----------------------------------------------------------
+Menus:
+1) Serial Port
+2) Access Management
+3) System Status
+4) Network
+5) Ethernet Communication
+6) Advanced
+
+Commands:
+s) Save Settings 
+r) Reboot System 
+l) Load Default Configuration 
+c) Load Default Configuration "Light" (No default for VSIP and Network)
+q) Quit 
+***********************************************************
+Command: s
+s
+Please wait while writing data to flash...
+
+Done
+
+
+***********************************************************
+*      Verint Video Solutions S1708e - 75.17.151.39       *
+***********************************************************
+Main Menu
+-----------------------------------------------------------
+Menus:
+1) Serial Port
+2) Access Management
+3) System Status
+4) Network
+5) Ethernet Communication
+6) Advanced
+
+Commands:
+s) Save Settings 
+r) Reboot System 
+l) Load Default Configuration 
+c) Load Default Configuration "Light" (No default for VSIP and Network)
+q) Quit 
+***********************************************************
+Message: System configuration has been saved.
+Command: q
+q
+Thank you for using the Verint Video Solutions CLI.
